@@ -341,6 +341,7 @@ body {
   left: -20px;
   z-index: -1;
 }
+
 .about .about-content .image::after {
   top: -40px;
   content: "";
@@ -421,6 +422,7 @@ body {
   }
 }
 /* End Contact */
+/*essam*/
 /* Start Footer */
 .footer {
   background-color: var(--secondary-color);
